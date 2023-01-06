@@ -1,4 +1,4 @@
-# M5_Atom_S3_Fiery_Demo
+# M5 Atom S3: Fiery Demo
 An old school fire effect for the M5 Atom S3.
 
 The screen button changes the palette.
