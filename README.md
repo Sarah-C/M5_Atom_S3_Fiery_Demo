@@ -1,5 +1,5 @@
 # M5 Atom S3: Fiery Demo
-An old school fire effect for the M5 Atom S3.
+An old school fire effect for the M5 Atom S3. (A version for Lilygo T-QT is https://github.com/Sarah-C/T-QT_Fiery_Demo )
 
 The screen button changes the palette.
 
