@@ -1,7 +1,7 @@
 # M5 Atom S3: Fiery Demo
 An old school fire effect for the M5 Atom S3. (A version for Lilygo T-QT is https://github.com/Sarah-C/T-QT_Fiery_Demo )
 
-There's no PlatformIO version yet, but you should be able to just copy and paste the code into the IDE.
+There's no PlatformIO version yet, but you should be able to just copy and paste the code into the IDE. (Check the T-QT version's PlatformIO project for details)
 
 The screen button changes the palette.
 
